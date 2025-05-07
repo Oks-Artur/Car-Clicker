@@ -37,14 +37,14 @@ Der Code in der „main.py“ und die beiden beigefügten GIFs sollten vollstän
 
 
 
+## 📚 Motivation & Lernziel
+
+Dieses Projekt habe ich aus reinem Interesse entwickelt, um meine Python-Fähigkeiten spielerisch zu vertiefen. Besonders spannend fand ich die Herausforderung, ein interaktives Spielkonzept eigenständig umzusetzen und eigene Ideen zu verwirklichen.
+
 ## ✨ Grafiken
 
 Die Grafik mit dem Auto stammt aus einer frei nutzbaren Quellen im Internet, bei denen angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für „Autonomes Fahren“ wurde von mir selbst mit Canva erstellt.
 
-
-## 📚 Motivation & Lernziel
-
-Dieses Projekt habe ich aus reinem Interesse entwickelt, um meine Python-Fähigkeiten spielerisch zu vertiefen. Besonders spannend fand ich die Herausforderung, ein interaktives Spielkonzept eigenständig umzusetzen und eigene Ideen zu verwirklichen.
 
 Ich habe mir dazu zahlreiche YouTube-Videos zum Aufbau von Cookie Clicker-Spielen angeschaut, um die Grundprinzipien besser zu verstehen — anschließend habe ich alles eigenständig auf meine Auto-Idee angepasst.
 
