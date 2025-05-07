@@ -20,7 +20,7 @@ Voraussetzungen
 Python 3.x muss auf dem Computer installiert sein.
 Der Code in der „main.py“ und die beiden beigefügten GIFs sollten vollständig übernommen werden.
 
-# Spiel starten
+## Spiel starten
 
 1. PyCharm starten
 2. Neues Projekt mit dem Namen Ihrer Wahl in PyCharm erstellen
@@ -28,7 +28,7 @@ Der Code in der „main.py“ und die beiden beigefügten GIFs sollten vollstän
 4. Rechtsklick auf die „main.py“ Datei
 5. Auswahl von „Run 'main'“ auwählen — das Spielfenster öffnet sich.
 
-# So sollte es ausschauen:
+## So sollte es ausschauen:
 
 <img width="960" alt="Update" src="https://github.com/user-attachments/assets/b51305a4-0848-413c-8ca7-7ca24d9f0695" />
 
