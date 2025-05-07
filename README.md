@@ -44,11 +44,11 @@ Dieses Projekt habe ich aus reinem Interesse entwickelt, um meine Python-Fähigk
 
 Mir hat die Entwicklung großen Spaß gemacht und ich habe dadurch ein deutlich besseres Verständnis für:
 
-Event Handling und Click Events
+- Event Handling und Click Events
 
-Game Loops und Automatisierung
+- Game Loops und Automatisierung
 
-Arbeiten mit Turtle-Grafik und benutzerdefinierten Formen (GIF-Dateien)
+- Arbeiten mit Turtle-Grafik und benutzerdefinierten Formen (GIF-Dateien)
 
 
 ## ✨ Grafiken
