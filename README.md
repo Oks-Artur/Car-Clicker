@@ -17,7 +17,7 @@ Jedes weitere Upgrade verbessert die Funktion und erhöht die Kilometeranzahl pr
 
 # 🚀 Installation & Spielstart
 Voraussetzungen
-Python 3.x muss auf dem Computer installiert sein.
+Python **3.x** muss auf dem Computer installiert sein.
 Der Code in der „main.py“ und die beiden beigefügten GIFs sollten vollständig übernommen werden.
 
 ## Spiel starten
