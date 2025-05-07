@@ -39,14 +39,7 @@ Der Code in der „main.py“ und die beiden beigefügten GIFs sollten vollstän
 
 ## 📚 Motivation & Lernziel
 
-Dieses Projekt habe ich aus reinem Interesse entwickelt, um meine Python-Fähigkeiten spielerisch zu vertiefen. Besonders spannend fand ich die Herausforderung, ein interaktives Spielkonzept eigenständig umzusetzen und eigene Ideen zu verwirklichen.
-
-## ✨ Grafiken
-
-Die Grafik mit dem Auto stammt aus einer frei nutzbaren Quellen im Internet, bei denen angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für „Autonomes Fahren“ wurde von mir selbst mit Canva erstellt.
-
-
-Ich habe mir dazu zahlreiche YouTube-Videos zum Aufbau von Cookie Clicker-Spielen angeschaut, um die Grundprinzipien besser zu verstehen — anschließend habe ich alles eigenständig auf meine Auto-Idee angepasst.
+Dieses Projekt habe ich aus reinem Interesse entwickelt, um meine Python-Fähigkeiten spielerisch zu vertiefen. Besonders spannend fand ich die Herausforderung, ein interaktives Spielkonzept eigenständig umzusetzen und eigene Ideen zu verwirklichen. Ich habe mir dazu zahlreiche YouTube-Videos zum Aufbau von Cookie Clicker-Spielen angeschaut, um die Grundprinzipien besser zu verstehen — anschließend habe ich alles eigenständig auf meine Auto-Idee angepasst.
 
 Mir hat die Entwicklung großen Spaß gemacht und ich habe dadurch ein deutlich besseres Verständnis für:
 
@@ -55,6 +48,11 @@ Event Handling und Click Events
 Game Loops und Automatisierung
 
 Arbeiten mit Turtle-Grafik und benutzerdefinierten Formen (GIF-Dateien)
+
+
+## ✨ Grafiken
+
+Die Grafik mit dem Auto stammt aus einer frei nutzbaren Quellen im Internet, bei der angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für „Autonomes Fahren“ wurde von mir selbst mit Canva erstellt.
 
  # 🛠️ Technologien
 
