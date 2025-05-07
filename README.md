@@ -23,10 +23,11 @@ Der Code in der „main.py“ und die beiden beigefügten GIFs sollten vollstän
 ## Spiel starten
 
 1. PyCharm starten
-2. Neues Projekt mit dem Namen Ihrer Wahl in PyCharm erstellen
-3. Den „main.py“ und die beiden beigefügten GIFs in den Ordner bei PyCharm einfügen
-4. Rechtsklick auf die „main.py“ Datei
-5. Auswahl von „Run 'main'“ auwählen — das Spielfenster öffnet sich.
+2. Ein neues Projekt mit einem Namen Ihrer Wahl in PyCharm erstellen
+3. Die Datei main.py und die beiden beigefügten GIFs in den Projektordner einfügen
+4. Rechtsklick auf die Datei „main.py“ 
+5. „Run 'main'“ auswählen — das Spielfenster öffnet sich
+
 
 ## So sollte es ausschauen:
 
