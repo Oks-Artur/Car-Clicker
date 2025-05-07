@@ -39,7 +39,7 @@ Der Code in der „main.py“ und die beiden beigefügten GIFs sollten vollstän
 
 ## ✨ Grafiken
 
-Die Grafik mit dem Auto stammt aus frei nutzbaren Quellen im Internet, bei denen angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für „Autonomes Fahren“ wurde von mir selbst mit Canva erstellt.
+Die Grafik mit dem Auto stammt aus einer frei nutzbaren Quellen im Internet, bei denen angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für „Autonomes Fahren“ wurde von mir selbst mit Canva erstellt.
 
 
 ## 📚 Motivation & Lernziel
