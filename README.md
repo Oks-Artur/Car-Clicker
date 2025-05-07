@@ -1,6 +1,6 @@
 # 🚗 Car Clicker — Kilometer sammeln
 
-Willkommen zu meinem kleinen Python-Spielprojekt! Dieses Projekt ist inspiriert vom bekannten "Cookie Clicker"-Konzept — allerdings mit einer automobilen Wendung. Statt auf Cookies zu klicken, sammelst du hier Kilometer, indem du auf ein Auto klickst.
+Willkommen zu meinem kleinen Python-Spielprojekt! Dieses Projekt ist inspiriert vom bekannten "Cookie Clicker"-Konzept — allerdings mit einer automobilen Wendung. Statt auf Cookies zu klicken, sammelst man hier Kilometer, indem man immer wieder auf das Auto klicken muss.
 
 ## ✨ Features
 
