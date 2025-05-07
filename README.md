@@ -56,7 +56,7 @@ Arbeiten mit Turtle-Grafik und benutzerdefinierten Formen (GIF-Dateien)
 Die Grafik mit dem Auto stammt aus einer frei nutzbaren Quellen im Internet, bei der angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für „Autonomes Fahren“ wurde von mir selbst mit Canva erstellt.
 
 
- # 🛠️ Technologien
+ ## 🛠️ Technologien
 
 - Python 3
 
