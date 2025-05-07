@@ -7,9 +7,10 @@ Statt wie in klassischen Clicker-Games auf Cookies zu klicken, sammeln die Spiel
 
 Kilometer sammeln: Jeder Klick auf das Auto bringt einem +1 Kilometer.
 
-Autonomes Fahren freischalten: Ab 50 Kilometern kannst du jederzeit den Button "Autonomes Fahren" aktivieren. Dadurch sammelt das Auto automatisch Kilometer für dich — und jedes weitere Mal, wenn du diesen Button kaufst, wird die Funktion immer besser: du erhältst zusätzlich +1 pro Sekunde (+x wird also immer weiter erhöht).
+Ab 50 Kilometern kann man jederzeit den Button „Autonomes Fahren“ aktivieren. Dadurch sammelt das Auto automatisch Kilometer für den Spieler.
+Jedes weitere Mal, wenn der Button gekauft wird, verbessert sich die Funktion: Der Spieler erhält zusätzlich +1 Kilometer pro Sekunde (dieser Wert +x wird bei jedem Upgrade weiter erhöht).
 
-Grafiken: Die Grafik mit dem Auto stammt aus frei nutzbaren Quellen im Internet, bei denen ausdrücklich angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für "autonomes Fahren" wurde von mir selbst mit Canva erstellt.
+Grafiken: Die Grafik mit dem Auto stammt aus frei nutzbaren Quellen im Internet, bei denen angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für autonomes „Autonomes Fahren“ wurde von mir selbst mit Canva erstellt.
 
 Automatische Kilometer: Nach dem Freischalten fügt das Spiel automatisch jede Sekunde Kilometer hinzu.
 
