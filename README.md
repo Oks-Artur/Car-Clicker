@@ -5,6 +5,7 @@ Statt wie in klassischen Clicker-Games auf Cookies zu klicken, sammeln die Spiel
 
 🖥️ Spielvorschau
 So sieht das Spiel während des Spielens aus:
+
 <img width="476" alt="Screenshot-Game" src="https://github.com/user-attachments/assets/7d51187c-e16c-4ead-8971-a6d7e314d301" />
 
 
