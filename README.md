@@ -3,7 +3,7 @@
 Willkommen zu meinem kleinen Python-Spielprojekt! Dieses Projekt ist inspiriert vom bekannten "Cookie Clicker"-Konzept — allerdings mit einer automobilen Wendung. 
 Statt wie in klassischen Clicker-Games auf Cookies zu klicken, sammeln die Spieler hier Kilometer, indem sie wiederholt auf ihr Auto klicken.
 
-🖥️ Spielvorschau
+# 🖥️ Spielvorschau
 So sieht das Spiel während des Spielens aus:
 
 <img width="476" alt="Screenshot-Game" src="https://github.com/user-attachments/assets/7d51187c-e16c-4ead-8971-a6d7e314d301" />
