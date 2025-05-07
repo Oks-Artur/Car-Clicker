@@ -9,9 +9,9 @@ So sieht das Spiel aus:
 <img width="476" alt="Screenshot-Game" src="https://github.com/user-attachments/assets/7d51187c-e16c-4ead-8971-a6d7e314d301" />
 
 # 🎮 Spielanleitung
-Kilometer sammeln: Jeder Klick auf das Auto bringt dem Spieler +1 Kilometer.
+Kilometer sammeln: Jeder Klick auf das Auto bringt dem Spieler **+1 Kilometer**.
 
-Ab 50 Kilometern kann der Spieler auf den Button „Autonomes Fahren“ klicken, um die automatische Kilometer-Sammlung zu aktivieren.
+Ab **50 Kilometern** kann der Spieler auf den Button **„Autonomes Fahren“** klicken, um die automatische Kilometer-Sammlung zu aktivieren.
 
 Jedes weitere Upgrade verbessert die Funktion und erhöht die Kilometeranzahl pro Sekunde.
 
@@ -54,7 +54,7 @@ Mir hat die Entwicklung großen Spaß gemacht und ich habe dadurch ein deutlich 
 
 ## ✨ Grafiken
 
-Die Grafik mit dem Auto stammt aus einer frei nutzbaren Quellen im Internet, bei der angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für „Autonomes Fahren“ wurde von mir selbst mit Canva erstellt.
+Die Grafik mit dem Auto stammt aus einer frei nutzbaren Quellen im Internet, bei der angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für **„Autonomes Fahren“** wurde von mir selbst mit Canva erstellt.
 
 
  ## 🛠️ Technologien
@@ -70,17 +70,17 @@ Die Grafik mit dem Auto stammt aus einer frei nutzbaren Quellen im Internet, bei
 Rein aus Interesse möchte ich mich nach meinem Abitur intensiver mit meinem Projekt weiter beschäftigen, da ich mit dem aktuellen Endergebnis noch nicht zu 100 % zufrieden bin.
 Hier sind einige mögliche Ideen für zukünftige Erweiterungen:
 
-"Upgrades für Autos:"
+**Upgrades für Autos:**
 Spieler können ihre Fahrzeuge verbessern — zum Beispiel in Bezug auf Geschwindigkeit oder Design.
 
-Kauf von neuen Autos & Buttons:
+**Kauf von neuen Autos & Buttons:**
 Neue Fahrzeuge und Buttons, die ich selbst mit Photoshop und Canva erstellen möchte, können durch gesammelte Kilometer im Spiel freigeschaltet und gekauft werden. Dadurch können Spieler ihr Erlebnis individuell aufwerten und erweitern.
 
-Erweiterte Button-Funktionen:
+**Erweiterte Button-Funktionen:**
 Zusätzliche Steuerungs- und Interaktionsmöglichkeiten sorgen für ein abwechslungsreicheres und dynamischeres Spielerlebnis.
 
 ## 🔍 Feedback
 Das Projekt ist open-source – ich freue mich über Code-Reviews oder Ideen
 
 # Artur Oks
-Bewerber für den Studiengang Künstliche Intelligenz bei der BMW
+Bewerber für den Studiengang **Künstliche Intelligenz** bei der **BMW**
