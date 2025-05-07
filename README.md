@@ -35,7 +35,7 @@ Der Code in der „main.py“ und die beiden beigefügten GIFs sollten vollstän
 
 
 
-Wähle „Run 'dein_spiel'“ aus — das Spielfenster öffnet sich.
+
 
 ## ✨ Grafiken
 
