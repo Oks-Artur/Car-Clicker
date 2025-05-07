@@ -8,7 +8,47 @@ So sieht das Spiel während des Spielens aus:
 
 <img width="476" alt="Screenshot-Game" src="https://github.com/user-attachments/assets/7d51187c-e16c-4ead-8971-a6d7e314d301" />
 
+# 🎮 Spielanleitung
+Kilometer sammeln: Jeder Klick auf das Auto bringt dem Spieler +1 Kilometer.
 
+Ab 50 Kilometern kann der Spieler auf den Button „Autonomes Fahren“ klicken, um die automatische Kilometer-Sammlung zu aktivieren.
+
+Jedes weitere Upgrade verbessert die Funktion und erhöht die Kilometeranzahl pro Sekunde.
+
+# 🚀 Installation & Spielstart
+Voraussetzungen
+Python 3.x muss auf dem Computer installiert sein.
+Der Code in der „main.py“ und die beiden beigefügten GIFs sollten vollständig übernommen werden.
+
+# Spiel starten
+
+1. PyCharm starten
+2. Neues Projekt mit dem Namen Ihrer Wahl in PyCharm erstellen
+3. Den „main.py“ und die beiden beigefügten GIFs in den Ordner bei PyCharm einfügen
+4. Rechtsklick auf die „main.py“ Datei
+5. Auswahl von „Run 'main'“ auwählen — das Spielfenster öffnet sich.
+
+# So sollte es ausschauen:
+
+<img width="960" alt="Update" src="https://github.com/user-attachments/assets/b51305a4-0848-413c-8ca7-7ca24d9f0695" />
+
+
+
+Starte PyCharm.
+
+Wähle „Projekt öffnen“ und öffne den Ordner, in dem sich dein Spiel befindet.
+
+Python-Datei hinzufügen (falls noch nicht vorhanden)
+
+Erstelle eine neue Python-Datei mit dem Namen dein_spiel.py.
+
+Füge deinen Code dort ein (oder öffne die vorhandene Datei).
+
+Spiel starten
+
+Klicke mit der rechten Maustaste auf deine Datei dein_spiel.py.
+
+Wähle „Run 'dein_spiel'“ aus — das Spielfenster öffnet sich.
 
 ## ✨ Features
 
