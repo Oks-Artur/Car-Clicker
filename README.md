@@ -34,46 +34,27 @@ Der Code in der „main.py“ und die beiden beigefügten GIFs sollten vollstän
 
 
 
-Starte PyCharm.
-
-Wähle „Projekt öffnen“ und öffne den Ordner, in dem sich dein Spiel befindet.
-
-Python-Datei hinzufügen (falls noch nicht vorhanden)
-
-Erstelle eine neue Python-Datei mit dem Namen dein_spiel.py.
-
-Füge deinen Code dort ein (oder öffne die vorhandene Datei).
-
-Spiel starten
-
-Klicke mit der rechten Maustaste auf deine Datei dein_spiel.py.
 
 Wähle „Run 'dein_spiel'“ aus — das Spielfenster öffnet sich.
 
-## ✨ Features
+## ✨ Grafiken
 
-Kilometer sammeln: Jeder Klick auf das Auto bringt einem +1 Kilometer.
+Die Grafik mit dem Auto stammt aus frei nutzbaren Quellen im Internet, bei denen angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für „Autonomes Fahren“ wurde von mir selbst mit Canva erstellt.
 
-Ab 50 Kilometern kann man jederzeit den Button „Autonomes Fahren“ aktivieren. Dadurch sammelt das Auto automatisch Kilometer für den Spieler.
-Jedes weitere Mal, wenn der Button gekauft wird, verbessert sich die Funktion: Der Spieler erhält zusätzlich +1 Kilometer pro Sekunde (dieser Wert +x wird bei jedem Upgrade weiter erhöht).
 
-Grafiken: Die Grafik mit dem Auto stammt aus frei nutzbaren Quellen im Internet, bei denen angegeben war, dass diese zur freien Nutzung erlaubt ist. Der Button für autonomes „Autonomes Fahren“ wurde von mir selbst mit Canva erstellt.
+## 📚 Motivation & Lernziel
 
-Automatische Kilometer: Nach dem Freischalten fügt das Spiel automatisch jede Sekunde Kilometer hinzu.
-
-## 💡 Motivation & Lernziel
-
-Dieses Projekt habe ich aus reinem Interesse entwickelt, um meine Python-Fähigkeiten spielerisch zu vertiefen. Besonders spannend fand ich die Herausforderung, ein interaktives Spielkonzept eigenständig umzusetzen.
+Dieses Projekt habe ich aus reinem Interesse entwickelt, um meine Python-Fähigkeiten spielerisch zu vertiefen. Besonders spannend fand ich die Herausforderung, ein interaktives Spielkonzept eigenständig umzusetzen und eigene Ideen zu verwirklichen.
 
 Ich habe mir dazu zahlreiche YouTube-Videos zum Aufbau von Cookie Clicker-Spielen angeschaut, um die Grundprinzipien besser zu verstehen — anschließend habe ich alles eigenständig auf meine Auto-Idee angepasst.
 
 Mir hat die Entwicklung großen Spaß gemacht und ich habe dadurch ein deutlich besseres Verständnis für:
 
-- Event Handling und Click Events
+Event Handling und Click Events
 
-- Game Loops und Automatisierung
+Game Loops und Automatisierung
 
-- Arbeiten mit Turtle-Grafik und benutzerdefinierten Formen (GIF-Dateien)
+Arbeiten mit Turtle-Grafik und benutzerdefinierten Formen (GIF-Dateien)
 
  # 🛠️ Technologien
 
