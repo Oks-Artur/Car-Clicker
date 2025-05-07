@@ -20,17 +20,35 @@ Ich habe mir dazu zahlreiche YouTube-Videos zum Aufbau von Cookie Clicker-Spiele
 
 Mir hat die Entwicklung großen Spaß gemacht und ich habe dadurch ein deutlich besseres Verständnis für:
 
-Event Handling und Click Events
+- Event Handling und Click Events
 
-Game Loops und Automatisierung
+- Game Loops und Automatisierung
 
-Arbeiten mit Turtle-Grafik und benutzerdefinierten Formen (GIF-Dateien)
+- Arbeiten mit Turtle-Grafik und benutzerdefinierten Formen (GIF-Dateien)
 
  # 🛠️ Technologien
 
-Python 3
+- Python 3
 
-Turtle Graphics (für die grafische Benutzeroberfläche)
+- Turtle Graphics (für die grafische Benutzeroberfläche)
 
-Canva (zur Erstellung eigener UI-Grafiken)
+- Canva (zur Erstellung eigener UI-Grafiken)
 
+## 💡 Ideen für zukünftige Verbesserungen
+Rein aus Interesse möchte ich mich nach meinem Abitur intensiver mit meinem Projekt weiter beschäftigen, da ich mit dem aktuellen Endergebnis noch nicht zu 100 % zufrieden bin.
+Hier sind einige mögliche Ideen für zukünftige Erweiterungen:
+
+Upgrades für Autos
+Spieler können ihre Fahrzeuge verbessern — zum Beispiel in Bezug auf Geschwindigkeit oder Design.
+
+Kauf von neuen Autos & Buttons
+Neue Fahrzeuge und Buttons, die ich selbst mit Photoshop und Canva erstellen möchte, können durch gesammelte Kilometer im Spiel freigeschaltet und gekauft werden. Dadurch können Spieler ihr Erlebnis individuell aufwerten und erweitern.
+
+Erweiterte Button-Funktionen
+Zusätzliche Steuerungs- und Interaktionsmöglichkeiten sorgen für ein abwechslungsreicheres und dynamischeres Spielerlebnis.
+
+## 🔍 Feedback
+Das Projekt ist open-source – ich freue mich über Code-Reviews oder Ideen
+
+# Artur Oks
+Bewerber für den Studiengang Künstliche Intelligenz bei der BMW
