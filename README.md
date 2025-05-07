@@ -25,3 +25,12 @@ Event Handling und Click Events
 Game Loops und Automatisierung
 
 Arbeiten mit Turtle-Grafik und benutzerdefinierten Formen (GIF-Dateien)
+
+ # 🛠️ Technologien
+
+Python 3
+
+Turtle Graphics (für die grafische Benutzeroberfläche)
+
+Canva (zur Erstellung eigener UI-Grafiken)
+
