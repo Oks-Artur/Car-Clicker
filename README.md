@@ -40,13 +40,13 @@ Mir hat die Entwicklung großen Spaß gemacht und ich habe dadurch ein deutlich 
 Rein aus Interesse möchte ich mich nach meinem Abitur intensiver mit meinem Projekt weiter beschäftigen, da ich mit dem aktuellen Endergebnis noch nicht zu 100 % zufrieden bin.
 Hier sind einige mögliche Ideen für zukünftige Erweiterungen:
 
-Upgrades für Autos
+Upgrades für Autos:
 Spieler können ihre Fahrzeuge verbessern — zum Beispiel in Bezug auf Geschwindigkeit oder Design.
 
-Kauf von neuen Autos & Buttons
+Kauf von neuen Autos & Buttons:
 Neue Fahrzeuge und Buttons, die ich selbst mit Photoshop und Canva erstellen möchte, können durch gesammelte Kilometer im Spiel freigeschaltet und gekauft werden. Dadurch können Spieler ihr Erlebnis individuell aufwerten und erweitern.
 
-Erweiterte Button-Funktionen
+Erweiterte Button-Funktionen:
 Zusätzliche Steuerungs- und Interaktionsmöglichkeiten sorgen für ein abwechslungsreicheres und dynamischeres Spielerlebnis.
 
 ## 🔍 Feedback
