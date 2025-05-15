@@ -73,7 +73,7 @@ Rein aus Interesse möchte ich mich nach meinem Abitur intensiver mit meinem Pro
 Spieler können ihre Fahrzeuge verbessern — zum Beispiel in Bezug auf Geschwindigkeit oder Design.
 
 **Kauf von neuen Autos & Buttons:**
-Neue Fahrzeuge und Buttons, die ich selbst mit Photoshop und Canva erstellen möchte, können durch gesammelte Kilometer im Spiel freigeschaltet und gekauft werden. Dadurch können Spieler ihr Erlebnis individuell aufwerten und erweitern.
+Kauf von neuen Autos & Buttons: Neue Fahrzeuge und Buttons, die ich selbst mit Photoshop und Canva erstelle, können durch im Spiel gesammelte Kilometer freigeschaltet und gekauft werden. So können Spieler ihr Erlebnis individuell aufwerten und erweitern.
 
 **Erweiterte Button-Funktionen:**
 Zusätzliche Steuerungs- und Interaktionsmöglichkeiten sorgen für ein abwechslungsreicheres und dynamischeres Spielerlebnis.
