@@ -82,4 +82,4 @@ Zusätzliche Steuerungs- und Interaktionsmöglichkeiten sorgen für ein abwechsl
 Das Projekt ist open-source – ich freue mich über Code-Reviews oder Ideen
 
 # Artur Oks
-Bewerber für das duale Studium bei der **BMW**
+ Bewerber für das duale Studium im Bereich Künstliche Intelligenz bei der **BMW Group** in **Regensburg**
