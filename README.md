@@ -67,7 +67,7 @@ Die Grafik mit dem Auto stammt aus einer frei nutzbaren Quellen im Internet, bei
 
 
 ## 💡 Ideen für zukünftige Verbesserungen
-Rein aus Interesse möchte ich mich nach meinem Abitur intensiver mit meinem Projekt beschäftigen, da ich mit dem aktuellen Endergebnis noch nicht ganz zufrieden bin. Im Folgenden finden Sie einige Ideen für mögliche zukünftige Erweiterungen:
+Rein aus Interesse möchte ich mich intensiver mit meinem Projekt beschäftigen, da ich mit dem aktuellen Endergebnis noch nicht ganz zufrieden bin. Im Folgenden finden Sie einige Ideen für mögliche zukünftige Erweiterungen:
 
 **Upgrades für Autos:**
 Spieler können ihre Fahrzeuge verbessern — zum Beispiel in Bezug auf Geschwindigkeit oder Design.
@@ -82,4 +82,4 @@ Zusätzliche Steuerungs- und Interaktionsmöglichkeiten sorgen für ein abwechsl
 Das Projekt ist open-source – ich freue mich über Code-Reviews oder Ideen
 
 # Artur Oks
- **Bewerber** für das duale Studium im Bereich Künstliche Intelligenz bei der **BMW Group** in **Regensburg**
+ **Bewerber** für ein Ausbildungsplatz bei der **BMW Group**
